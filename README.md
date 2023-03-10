@@ -1,12 +1,14 @@
 ## 2023.03.10
 
-| paper                                | code                                                         |
-| ------------------------------------ | ------------------------------------------------------------ |
-| Pytorch和Tensorflow基础              | **[deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)** |
-| 同济子豪兄主讲的公开课（可解释性AI） | **[zihao_course](https://github.com/TommyZihao/zihao_course)** |
-| PyTorch Image Classification         | **[pytorch_image_classification](https://github.com/hysts/pytorch_image_classification)** |
-| Train CIFAR10 with PyTorch           | **[pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)** |
-| pytorch-beginner                     | **[pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)** |
+| paper                                  | description                           | code                                                         |
+| -------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| Pytorch和Tensorflow基础                |                                       | **[deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)** |
+| 同济子豪兄主讲的公开课（可解释性AI）   |                                       | **[zihao_course](https://github.com/TommyZihao/zihao_course)** |
+| PyTorch Image Classification           |                                       | **[pytorch_image_classification](https://github.com/hysts/pytorch_image_classification)** |
+| Train CIFAR10 with PyTorch             |                                       | **[pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)** |
+| pytorch-beginner                       |                                       | **[pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)** |
+| 西瓜书笔记                             |                                       | [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) |
+| NLP民工的乐园: 几乎最全的中文NLP资源库 | 包括知识图谱，预训练语言模型&大模型等 | **[funNLP](https://github.com/fighting41love/funNLP)**       |
 
 
 
