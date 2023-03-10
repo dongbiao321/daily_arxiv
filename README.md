@@ -1,3 +1,15 @@
+## 2023.03.10
+
+| paper                                | code                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| Pytorch和Tensorflow基础              | **[deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)** |
+| 同济子豪兄主讲的公开课（可解释性AI） | **[zihao_course](https://github.com/TommyZihao/zihao_course)** |
+| PyTorch Image Classification         | **[pytorch_image_classification](https://github.com/hysts/pytorch_image_classification)** |
+| Train CIFAR10 with PyTorch           | **[pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)** |
+| pytorch-beginner                     | **[pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)** |
+
+
+
 ## 2023.03.09
 
 | paper                                                        | code                                                         |
