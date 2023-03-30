@@ -2,11 +2,10 @@
 
 ## 2023.03.29
 
-| paper                                                        | description      | code                                                         |
-| ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
-| [Implicit Semantic-Aware](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10000405) |                  | **[iRML](https://github.com/zjs919/iRML)**                   |
-| [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10015684) | 链路级仿真的工具 | **[Predictive-and-Adaptive-Deep-Coding](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication)** |
-| [Neural Joint Source-Channel Coding](https://arxiv.org/abs/1811.07557) |                  | **[necst](https://github.com/ermongroup/necst)**             |
+| paper                                                        | description | code                                             |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------ |
+| [Implicit Semantic-Aware](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10000405) |             | **[iRML](https://github.com/zjs919/iRML)**       |
+| [Neural Joint Source-Channel Coding](https://arxiv.org/abs/1811.07557) |             | **[necst](https://github.com/ermongroup/necst)** |
 
 
 
