@@ -1,5 +1,21 @@
 
 
+## 2023.04.24
+
+| paper                                                        | description | code                                                         |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| [Semantic Communication with Adaptive Universal Transformer](https://arxiv.org/pdf/2108.09119) | 文本传输    | **[semantic-communication-](https://github.com/qqy2021/semantic-communication-)** |
+
+
+
+## 2023.04.15
+
+| paper                                                        | description | code                                                         |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| [Robust semantic communications with masked VQ-VAE enabled codebook](https://ieeexplore.ieee.org/document/10101778) |             | /**[RobustSemanComm](https://github.com/hqyyqh888/RobustSemanComm)** |
+
+
+
 ## 2023.04.9
 
 | paper                                                        | description | code                                                         |
