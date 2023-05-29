@@ -1,5 +1,22 @@
 
 
+## 2023.05.27
+
+| paper                                                        | description                                                  | code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              | 数据集地址http://www.statmt.org/europarl/v7/europarl.tgz     | **[DeepLearningEnabledSemanticCommunicationSystems](https://github.com/Azul-9/DeepLearningEnabledSemanticCommunicationSystems)** |
+|                                                              | Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning | **[<br/>lora](https://github.com/cloneofsimo/lora)**         |
+| [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685v2.pdf) | 开山之作                                                     | **[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** |
+|                                                              | LORA 已经被 HuggingFace 集成在了 [PEFT（Parameter-Efficient Fine-Tuning）](https://link.zhihu.com/?target=https%3A//github.com/huggingface/peft) 代码库 | **[<br/>peft](https://github.com/huggingface/peft)**         |
+
+
+
+
+
+
+
+
+
 ## 2023.04.25
 
 | paper                                                        | description | code                                                         |
