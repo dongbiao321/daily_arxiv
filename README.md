@@ -8,12 +8,9 @@
 |                                                              | Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning | **[<br/>lora](https://github.com/cloneofsimo/lora)**         |
 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685v2.pdf) | 开山之作                                                     | **[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** |
 |                                                              | LORA 已经被 HuggingFace 集成在了 [PEFT（Parameter-Efficient Fine-Tuning）](https://link.zhihu.com/?target=https%3A//github.com/huggingface/peft) 代码库 | **[<br/>peft](https://github.com/huggingface/peft)**         |
-
-
-
-
-
-
+| [Llama-adapter: Efficient fine-tuning of language models with zero-init attention](https://arxiv.org/pdf/2303.16199.pdf) | 使用了peft                                                   | **[LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)** |
+| [Sidlr: Slot and intent detection models for low-resource language varieties](https://aclanthology.org/2023.vardial-1.24.pdf) | 使用了peft和mt0                                              |                                                              |
+| [Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity](https://arxiv.org/pdf/2305.08252.pdf) | 使用了peft                                                   |                                                              |
 
 
 
@@ -130,6 +127,7 @@
 | paper                                                        | code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Deep Learning Enabled Semantic Communication Systems](https://arxiv.org/pdf/2006.10685) | **[The-implementations-of-DeepSC](https://github.com/HQXie0910/The-implementations-of-DeepSC)** |
+| 数据集地址http://www.statmt.org/europarl/v7/europarl.tgz     | [pytorch](https://github.com/13274086/DeepSC)                |
 
 
 
@@ -139,6 +137,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Reinforcement Learning-powered Semantic Communication via Semantic Similarity](https://arxiv.org/pdf/2108.12121.pdf) | **[SemanticRL](https://github.com/lukun199/SemanticRL)**     |
 | [Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data](https://arxiv.org/pdf/2205.00271v3.pdf) | **[Semantic-Communication-Systems](https://github.com/SJTU-mxtao/Semantic-Communication-Systems)** |
+| https://github.com/Azul-9/DeepLearningEnabledSemanticCommunicationSystems<br/> |                                                              |
 
 
 
