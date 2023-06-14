@@ -9,8 +9,9 @@
 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685v2.pdf) | 开山之作                                                     | **[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** |
 |                                                              | LORA 已经被 HuggingFace 集成在了 [PEFT（Parameter-Efficient Fine-Tuning）](https://link.zhihu.com/?target=https%3A//github.com/huggingface/peft) 代码库 | **[<br/>peft](https://github.com/huggingface/peft)**         |
 | [Llama-adapter: Efficient fine-tuning of language models with zero-init attention](https://arxiv.org/pdf/2303.16199.pdf) | 使用了peft                                                   | **[LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)** |
-| [Sidlr: Slot and intent detection models for low-resource language varieties](https://aclanthology.org/2023.vardial-1.24.pdf) | 使用了peft和mt0                                              |                                                              |
-| [Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity](https://arxiv.org/pdf/2305.08252.pdf) | 使用了peft                                                   |                                                              |
+|                                                              | 使用了peft和mt0                                              | [Sidlr: Slot and intent detection models for low-resource language varieties](https://aclanthology.org/2023.vardial-1.24.pdf) |
+|                                                              | 使用了peft                                                   | [Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity](https://arxiv.org/pdf/2305.08252.pdf) |
+| [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_SimMIM_A_Simple_Framework_for_Masked_Image_Modeling_CVPR_2022_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xie_SimMIM_A_Simple_CVPR_2022_supplemental.pdf)] [[arXiv](http://arxiv.org/abs/2111.09886)] | https://github.com/microsoft/SimMIM .                        | SimMIM: a Simple Framework for Masked Image Modeling         |
 
 
 
